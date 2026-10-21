@@ -10,7 +10,7 @@ the charts and database built from this are here: {{loveitzeladu.com/}}
 
 this guide is split into four parts:
 
-1. **what's in the repo/site**: the files and what they are
+1. **what's in the repo/site**: the files
 2. **how it was made**
 3. **run it yourself**
 4. **things to know**
