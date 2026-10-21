@@ -6,7 +6,7 @@ The full text of the state bills in the aclu's anti-lgbtq legislation tracker (2
 
 --
 
-The charts and database built from this are here: {{loveitzeladu.com}}
+The charts and database built from this are here: (https://www.loveitzeladu.com/antilgbtqdataviz.html)
 
 ## Contents
 
