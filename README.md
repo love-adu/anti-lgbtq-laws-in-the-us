@@ -1,26 +1,26 @@
-# anti-lgbtq-laws-in-the-us
+# Anti-LGBTQ-Laws-In-The-US
 
-# bill and text dataset
+# Bill and Text Dataset
 
-the full text of the state bills in the aclu's anti-lgbtq legislation tracker (2020 through 2026), plus the scripts.
+The full text of the state bills in the aclu's anti-lgbtq legislation tracker (2020 through 2026), plus the scripts.
 
 --
 
-the charts and database built from this are here: {{loveitzeladu.com}}
+The charts and database built from this are here: {{loveitzeladu.com}}
 
-## contents
+## Contents
 
-- [what's in here](#whats-in-here)
-- [where the data comes from](#where-the-data-comes-from)
-- [how it was made](#how-it-was-made)
-- [how to cite this](#how-to-cite-this)
-- [credits and terms](#credits-and-terms)
+- [What's in here](#Whats-in-here)
+- [Where the data comes from](#Where-the-data-comes-from)
+- [How it was made](#How-it-was-made)
+- [How to cite this](#How-to-cite-this)
+- [Credits and Terms](#Credits-and-Terms)
 
 ---
 
-# part 1: what's in here
+# Part 1: What's in here
 
-## what's in here
+## What's in here
 
 | file | what it is |
 |---|---|
@@ -41,17 +41,17 @@ billis_WA_HB1233_222_introduced.txt
 
 the key is: the state (`WA`), the bill (`HB1233`), the legiscan bill id (`222`), and which version it is (`introduced` or `latest`).
 
-## where the data comes from
+## Where the data comes from
 
 - **the bill list, issue categories, and statuses**: the aclu's legislation tracker, [mapping attacks on lgbtq rights in u.s. state legislatures](https://www.aclu.org/legislative-attacks-on-lgbtq-rights). i downloaded the csv for each tracker year, 2020 through 2026. (with the exception of 202 to 2022, all have the same 2023 file name in the repo fyi, sorry!!)
 - **the bill text and sponsors**: [legiscan](https://legiscan.com), through its api.
 ---
 
-# part 2: how it was made
+# Part 2: How it was made
 
-code is linked on the site. Too lazy to repeat it here lol.
+code is linked on the site.
 
-## how to cite this
+## How to cite this
 
 if you use the dataset, the scripts, or the charts, and want to cite it, see below. github also puts a "cite this repository" button on the right side of the repo page, that comes from the `CITATION.cff` file.
 
@@ -84,7 +84,7 @@ please cite where the data came from too:
 - the bill list, issue categories, and statuses: American Civil Liberties Union. (2026). *Mapping attacks on LGBTQ rights in U.S. state legislatures*. https://www.aclu.org/legislative-attacks-on-lgbtq-rights. 
 - the bill text and sponsor records: LegiScan. *LegiScan API*. https://legiscan.com. accessed {{month and year you ran the download}}. check their terms for how they want to be credited, I'm not eentirely sure.
 
-## credits and terms
+## Credits and Terms
 
 - bill list and issue categories: the aclu's [legislation tracker](https://www.aclu.org/legislative-attacks-on-lgbtq-rights)
 - bill text and sponsor records: [legiscan](https://legiscan.com), through its api
