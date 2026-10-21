@@ -1,6 +1,6 @@
 # anti-lgbtq-laws-in-the-us
 
-# anti-lgbtq bill text dataset
+# bill and text dataset
 
 the full text of the state bills in the aclu's anti-lgbtq legislation tracker (2020 through 2026), plus the scripts.
 
