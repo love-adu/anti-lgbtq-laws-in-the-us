@@ -8,13 +8,6 @@ the full text of the state bills in the aclu's anti-lgbtq legislation tracker (2
 
 the charts and database built from this are here: {{loveitzeladu.com}}
 
-this guide is split into four parts:
-
-1. **what's in the repo/site**: the files
-2. **how it was made**
-3. **run it yourself**
-4. **things to know**
-
 ## contents
 
 - [what's in here](#whats-in-here)
